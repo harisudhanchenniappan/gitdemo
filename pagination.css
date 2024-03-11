@@ -1,0 +1,15 @@
+.pagination{
+    display: flex;
+    justify-content: space-between;
+}
+.pagination a{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 5px 10px;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    font-weight: bolder;
+}
